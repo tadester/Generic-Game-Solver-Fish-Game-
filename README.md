@@ -24,6 +24,7 @@ shell
 Copy code
 java GeneticAlgorithmGameSolver game_board.txt LRUD
 Replace game_board.txt with the path to your game board file.
+
 Replace LRUD with a string of instructions (L for left, R for right, U for up, D for down).
 Input
 Game Board File: A text file representing the game board. The file should be formatted with integers separated by commas.

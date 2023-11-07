@@ -18,7 +18,7 @@ Follow these steps to compile and run the program:
    Open your command prompt or terminal and navigate to the directory containing the `GeneticAlgorithmGameSolver.java` file. Use the following command to compile the code:
    ``shell
    javac GeneticAlgorithmGameSolver.java
-Run the Program:
+## Run the Program:
 Run the program with two command-line arguments: the game board file and a string of instructions. Use the following command as an example:
 shell
 Copy code

@@ -22,11 +22,12 @@ Follow these steps to compile and run the program:
 Run the program with two command-line arguments: the game board file and a string of instructions. Use the following command as an example:
 shell
 Copy code
+
 java GeneticAlgorithmGameSolver game_board.txt LRUD
 Replace game_board.txt with the path to your game board file.
-
 Replace LRUD with a string of instructions (L for left, R for right, U for up, D for down).
-Input
+
+## Input
 Game Board File: A text file representing the game board. The file should be formatted with integers separated by commas.
 Output
 The program will output the final score or a message indicating that an invalid move was made.

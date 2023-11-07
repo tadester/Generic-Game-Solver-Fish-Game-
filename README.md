@@ -31,6 +31,6 @@ Game Board File: A text file representing the game board. The file should be for
 Output
 The program will output the final score or a message indicating that an invalid move was made.
 
-Author
+## Author
 Tade Obasan
 Feel free to explore, modify, and use this code to tackle your game-solving challenges!
